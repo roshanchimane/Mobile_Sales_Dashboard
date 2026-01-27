@@ -32,5 +32,4 @@ The dashboard provides an in-depth, drill-down analysis of mobile sales, focusin
 This repository contains the following core files:
 
 * **`MobileSalesDashboard.pbix`**: The main Power BI project file containing the data model, transformations, and final visualizations.
-* **`Mobile Sales Data.xlsx - Sheet1.csv`**: The primary dataset with transaction details, sales figures, brand information, and customer ratings.
-* **`Mobile Sales Data.xlsx - Sheet2.csv`**: A supporting dataset, typically used for city/dimension data.
+* **`Mobile Sales Data.xlsx`**: The primary dataset with transaction details, sales figures, brand information, and customer ratings.
