@@ -2,7 +2,7 @@
 
 A dynamic and interactive **Mobile Sales Dashboard** built using **Power BI Desktop** for comprehensive analysis of sales data. This project helps stakeholders track performance, identify trends, and make data-driven decisions.
 
----
+
 
 ## 🚀 Key Features & Visualizations
 
@@ -15,7 +15,6 @@ The dashboard provides an in-depth, drill-down analysis of mobile sales, focusin
 * **Customer Demographics:** Breakdown of sales based on **Customer Age** and **Average Customer Ratings**.
 * **Payment Method Analysis:** Distribution of transactions by payment type (Cash, UPI, Card) to optimize payment strategy.
 
----
 
 ## 🛠️ Technologies Used
 
@@ -25,7 +24,7 @@ The dashboard provides an in-depth, drill-down analysis of mobile sales, focusin
 | **Data Source** | **CSV Files** | Storing and structuring the raw sales and city data. |
 | **Data Modeling** | **DAX & Power Query (M)** | Data transformation, cleaning, relationship management, and custom measure creation. |
 
----
+
 
 ## 📂 Project Files
 
