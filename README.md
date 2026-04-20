@@ -25,7 +25,6 @@ The dashboard provides an in-depth, drill-down analysis of mobile sales, focusin
 | **Data Modeling** | **DAX & Power Query (M)** | Data transformation, cleaning, relationship management, and custom measure creation. |
 
 
-
 ### 📂 Project Files
 
 This repository contains the following core files:
