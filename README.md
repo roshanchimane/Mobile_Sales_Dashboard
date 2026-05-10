@@ -16,7 +16,7 @@ The dashboard provides an in-depth, drill-down analysis of mobile sales, focusin
 * **Payment Method Analysis:** Distribution of transactions by payment type (Cash, UPI, Card) to optimize payment strategy.
 
 
-### 🛠️ Technologies Used 
+### 🛠️ Technologies Used  
 
 | Category | Tool/Technology | Purpose |
 | :--- | :--- | :--- |
