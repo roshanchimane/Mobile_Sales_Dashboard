@@ -7,7 +7,7 @@ A dynamic and interactive **Mobile Sales Dashboard** built using **Power BI Desk
 
 
 The dashboard provides an in-depth, drill-down analysis of mobile sales, focusing on critical business metrics:
-  
+   
 * **Total Revenue & Units Sold:** High-level Key Performance Indicators (KPIs) for immediate business health assessment.
 * **Sales Trend Analysis:** Visualizations (e.g., line charts) tracking revenue and units sold over time (yearly/monthly) to spot seasonality and growth.
 * **Brand Performance:** Comparative analysis of sales volume, revenue, and market share for different mobile brands (e.g., Apple, Samsung, Xiaomi).
