@@ -19,7 +19,7 @@ The dashboard provides an in-depth, drill-down analysis of mobile sales, focusin
 ### 🛠️ Technologies Used  
  
 | Category | Tool/Technology | Purpose |
-| :--- | :--- | :--- |
+| :--- | :--- | :--- | 
 | **Dashboarding** | **Power BI Desktop** | Creating the interactive report file (`.pbix`). |
 | **Data Source** | **CSV Files** | Storing and structuring the raw sales and city data. |
 | **Data Modeling** | **DAX & Power Query (M)** | Data transformation, cleaning, relationship management, and custom measure creation. |
