@@ -17,7 +17,7 @@ The dashboard provides an in-depth, drill-down analysis of mobile sales, focusin
 
 
 ### 🛠️ Technologies Used  
-
+ 
 | Category | Tool/Technology | Purpose |
 | :--- | :--- | :--- |
 | **Dashboarding** | **Power BI Desktop** | Creating the interactive report file (`.pbix`). |
